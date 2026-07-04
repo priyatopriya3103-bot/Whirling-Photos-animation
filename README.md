@@ -18,7 +18,7 @@ An animated photo gallery built using HTML and  internal CSS in just 78 lines of
 🚀 Live Demo
 📷 Preview
 
-![Project Preview](assets/preview.mp4)
+![Project Preview](assets/p.png)
 
 📚 What I Learned
 
