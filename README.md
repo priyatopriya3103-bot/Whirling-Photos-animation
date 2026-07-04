@@ -16,6 +16,8 @@ An animated photo gallery built using HTML and  internal CSS in just 78 lines of
 - CSS Animations
 
 🚀 Live Demo
+ https://priyatopriya3103-bot.github.io/Whirling-Photos-animation/
+
 📷 Preview
 
 ![Project Preview](assets/p.png)
